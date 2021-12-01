@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Efinal-Zegarra-Herrera.iml" filepath="$PROJECT_DIR$/.idea/modules/Efinal-Zegarra-Herrera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Efinal-Zegarra-Herrera.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Efinal-Zegarra-Herrera.app.iml" />
+    </modules>
+  </component>
+</project>
